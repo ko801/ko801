@@ -10,10 +10,6 @@
 
 I am a passionate BCA student from Kanpur, India, with a strong interest
 in building responsive and interactive web applications.
-I enjoy turning ideas into real projects using the MERN stack,
-and I am always pushing myself to learn something new every single day.
-Currently contributing to open source through *GSSoC 2026*
-and working toward my goal of becoming a professional Software Developer.
 
 - 🔭 Currently building *responsive web applications*
 - 🌱 Currently learning *React.js and Backend Development*
@@ -30,10 +26,7 @@ and working toward my goal of becoming a professional Software Developer.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-
-
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 
 
@@ -69,10 +62,6 @@ and working toward my goal of becoming a professional Software Developer.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 
