@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Komal Yadav 👋</h1>
 
 <p align="center">
-🎓 BCA Student | 💻 MERN Stack Developer | 🌱 Open Source Contributor | 📍 Kanpur, India
+🎓 BCA Student | 💻 MERN Stack Developer | 📍 Kanpur, India
 </p>
 
 ---
