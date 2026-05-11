@@ -8,7 +8,7 @@ I build clean, scalable, and user-centric web applications with modern technolog
 
 ---
 
-[
+
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-komal--yadav23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
