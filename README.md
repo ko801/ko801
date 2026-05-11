@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hey there, I'm Komal Yadav 👋
+# Komal Yadav
 
-*BCA Student · MERN Stack Developer · Kanpur, India*
+*Full-Stack Web Developer (MERN) · BCA Undergraduate · Kanpur, India*
 
-Crafting responsive, interactive web experiences — one component at a time.
+I build clean, scalable, and user-centric web applications with modern technologies.
+
+---
 
 [
 
@@ -13,7 +15,7 @@ Crafting responsive, interactive web experiences — one component at a time.
 ](https://linkedin.com/in/komal-yadav23)
 [
 
-![Gmail](https://img.shields.io/badge/Gmail-komalyadav1.in@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-komalyadav1.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:komalyadav1.in@gmail.com)
 [
@@ -26,15 +28,22 @@ Crafting responsive, interactive web experiences — one component at a time.
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-I'm a *BCA student from Kanpur, India, passionate about building clean, functional, and user-friendly web applications. My primary focus is the **MERN stack* — from designing interfaces in React to building RESTful APIs with Node.js and Express.
+I am a dedicated BCA student at Kanpur, India, with a strong foundation in full-stack web development using the *MERN stack*. I am deeply interested in writing efficient, maintainable code and creating seamless user experiences — from pixel-perfect frontends to robust backend architectures.
 
-- 🔭 Currently building *responsive full-stack web applications*
-- 📚 Deepening my knowledge in *React.js & Backend Development*
-- 🎯 Goal: Land my *first Software Developer role*
-- 💬 Ask me anything about *HTML, CSS, JavaScript, or React*
-- ⚡ Fun fact: My best code is written with cold coffee at 11 PM
+I approach every project with curiosity and discipline, constantly expanding my skill set and applying best practices in modern web development.
+
+---
+
+## 🎯 Current Focus
+
+| Area | Details |
+|------|---------|
+| 🔨 Building | Responsive, full-stack MERN applications |
+| 📖 Learning | Advanced React patterns & REST API design |
+| 🏆 Goal | Securing my first professional Software Developer role |
+| 💬 Open to discuss | HTML, CSS, JavaScript, React, Node.js |
 
 ---
 
@@ -87,12 +96,12 @@ I'm a *BCA student from Kanpur, India, passionate about building clean, function
 ### Languages
 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
@@ -115,7 +124,7 @@ I'm a *BCA student from Kanpur, India, passionate about building clean, function
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -143,16 +152,26 @@ I'm a *BCA student from Kanpur, India, passionate about building clean, function
 
 ## 🌱 Currently Learning
 
-- Advanced *React* patterns (hooks, context, performance optimization)
-- *REST API* design and best practices
-- *Database design* with MongoDB
+- Advanced *React* — hooks, context API, and performance optimization
+- *RESTful API* architecture and best practices
+- *MongoDB* schema design and aggregation pipelines
+- *Software engineering* principles: clean code, version control workflows
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to *collaboration, **feedback, and **new opportunities*. Whether you have a project idea, a question, or just want to connect — feel free to reach out.
+
+> 📧 komalyadav1.in@gmail.com
+> 💼 [linkedin.com/in/komal-yadav23](https://linkedin.com/in/komal-yadav23)
 
 ---
 
 <div align="center">
 
-"First, solve the problem. Then, write the code." — John Johnson
+"First, solve the problem. Then, write the code."
 
-⭐ *If you find my projects useful, consider giving them a star!* ⭐
+*Thanks for visiting my profile — feel free to explore my repositories!* ⭐
 
 </div>
