@@ -2,7 +2,7 @@
 
 # Komal Yadav
 
-*Full-Stack Web Developer (MERN) · BCA Undergraduate · Kanpur, India*
+*Full-Stack Web Developer (MERN) · BCA  · Kanpur, India*
 
 I build clean, scalable, and user-centric web applications with modern technologies.
 
