@@ -1,32 +1,55 @@
-<h1 align="center">Hi there, I'm Komal Yadav 👋</h1>
+<div align="center">
 
-<p align="center">
-🎓 BCA Student | 💻 MERN Stack Developer | 📍 Kanpur, India
-</p>
+# Hey there, I'm Komal Yadav 👋
+
+*BCA Student · MERN Stack Developer · Kanpur, India*
+
+Crafting responsive, interactive web experiences — one component at a time.
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-komal--yadav23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/komal-yadav23)
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-komalyadav1.in@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:komalyadav1.in@gmail.com)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-ko801-181717?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/ko801)
+
+</div>
 
 ---
 
-### 👩‍💻 About Me
+## 🙋‍♀️ About Me
 
-I am a passionate BCA student from Kanpur, India, with a strong interest
-in building responsive and interactive web applications.
+I'm a *BCA student from Kanpur, India, passionate about building clean, functional, and user-friendly web applications. My primary focus is the **MERN stack* — from designing interfaces in React to building RESTful APIs with Node.js and Express.
 
-- 🔭 Currently building *responsive web applications*
-- 🌱 Currently learning *React.js and Backend Development*
-- 🎯 Goal: Land my first *Software Developer role*
-- 💬 Ask me about *HTML, CSS, JavaScript, React*
-- ⚡ Fun fact: I code with cold coffee at 11PM!
+- 🔭 Currently building *responsive full-stack web applications*
+- 📚 Deepening my knowledge in *React.js & Backend Development*
+- 🎯 Goal: Land my *first Software Developer role*
+- 💬 Ask me anything about *HTML, CSS, JavaScript, or React*
+- ⚡ Fun fact: My best code is written with cold coffee at 11 PM
 
 ---
 
-### 🎨 Frontend
+## 🛠️ Tech Stack
+
+### Frontend
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
@@ -40,35 +63,40 @@ in building responsive and interactive web applications.
 
 
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 
----
-
-### ⚙️ Backend
+### Backend
 
 
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-
-
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
 
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools
 
+
+### Languages
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+### Tools & Platforms
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -81,53 +109,50 @@ in building responsive and interactive web applications.
 
 
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ko801&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ko801&theme=tokyonight" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko801&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
----
 
-### 🚀 Featured Projects
+![Komal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ko801&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-| Project | Tech | Live Demo |
-|---|---|---|
-| Spotify Clone | HTML, CSS | Coming Soon |
-| Medical Guideline System | HTML | Coming Soon |
-| E-Commerce UI | HTML, CSS | Coming Soon |
-| My Portfolio | HTML | Coming Soon |
 
----
 
-### 🤝 Connect With Me
 
-[
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ko801&theme=tokyonight&hide_border=true)
 
-](https://www.linkedin.com/in/komal-yadav23)
-[
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto:komalyadav1.in@gmail.com)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ko801&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ko801&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+## 🌱 Currently Learning
 
-<p align="center">⭐ <i>"Code every day, grow every day!"</i> ⭐</p>
+- Advanced *React* patterns (hooks, context, performance optimization)
+- *REST API* design and best practices
+- *Database design* with MongoDB
+
+---
+
+<div align="center">
+
+"First, solve the problem. Then, write the code." — John Johnson
+
+⭐ *If you find my projects useful, consider giving them a star!* ⭐
+
+</div>
