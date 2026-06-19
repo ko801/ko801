@@ -1,4 +1,4 @@
-<div align-item:"start">
+<div align-item:"right">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Komal%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20(MERN)&descAlignY=60&descSize=18&descColor=a0c4ff" width="100%"/>
