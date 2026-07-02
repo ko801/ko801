@@ -73,7 +73,7 @@ I'm a dedicated full-stack developer who builds **clean, scalable, and user-cent
 
 ## 📊 GitHub Stats
 
-<div align="start">
+<div align="cente">
   <img src="https://github-readme-stats.vercel.app/api?username=ko801&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko801&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
