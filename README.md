@@ -78,7 +78,7 @@ I'm a dedicated full-stack developer who builds **clean, scalable, and user-cent
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko801&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
-<div align="center">
+<div align="end">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ko801&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
