@@ -23,7 +23,7 @@
 
 ```javascript
 const komal = {
-  location:    "Kanpur, India 🇮🇳",
+  location:    "delhi, India 🇮🇳",
   education:   "BCA (Bachelor of Computer Applications)",
   focus:       "Full-Stack Web Development · MERN Stack",
   passion:     ["Clean Code", "Scalable Architecture", "Great UX"],
