@@ -96,7 +96,7 @@ I'm a dedicated full-stack developer who builds **clean, scalable, and user-cent
 
 I'm always open to **collaboration**, **feedback**, and **new opportunities**. Whether you have a project idea, a question about web development, or just want to network — I'd love to hear from you!
 
-<div align="end">
+<div align="start">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/komal-yadav23)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komalyadav1.in@gmail.com)
